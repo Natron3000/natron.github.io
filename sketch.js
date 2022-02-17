@@ -208,7 +208,7 @@ function prefase1(){
 function fase1(){
   rect(x,y,25,50)
   image(imgquadra, 0, 0);
-  nfase = 10;
+  nfase = 11;
   
   temposemhit++;
   tempofase--;
@@ -532,7 +532,7 @@ function prefase3(){
 function fase3(){
   rect(x,y,25,50)
   image(imgquadra, 0, 0);
-  nfase = 21;
+  nfase = 31;
   
   temposemhit++;
   tempofase--;
